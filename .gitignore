@@ -98,6 +98,7 @@ dmypy.json
 
 # Data and models (uncomment if needed)
 # *.h5
+*.keras
 # *.pkl
 # *.pickle
 # data/
